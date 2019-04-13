@@ -1,0 +1,7 @@
+__pycache__/
+__pycache__/*
+
+
+# SQLite database files
+
+*.sqlite3

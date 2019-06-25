@@ -1,7 +1,7 @@
-__pycache__/
-__pycache__/*
-
-
-# SQLite database files
-
-*.sqlite3
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store

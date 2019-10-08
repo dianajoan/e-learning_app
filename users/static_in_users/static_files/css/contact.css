@@ -1,0 +1,90 @@
+/*--contact--*/
+.map iframe {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    height: 300px;
+    border: none;
+    line-height: 0;
+    overflow: hidden;
+}
+
+.contact_details h5 {
+    font-size: 1em;
+    font-weight: bold;
+    color: #637f83;
+    margin-bottom: 1em;
+    margin-top: 5px;
+}
+
+i.address {
+    width: 25px;
+    height: 25px;
+    background: url(../img/img-sprite.png) -195px -229px;
+    float: left;
+    margin-right: 5px;
+}
+
+.contact_address, .contact_mail {
+    font-size: 0.85em;
+    color: #999;
+    line-height: 1.5em;
+}
+
+.contact_mail {
+    cursor: pointer;
+}
+
+.contact_mail:hover {
+    color: #e4551d;
+}
+
+i.phone {
+    width: 25px;
+    height: 25px;
+    background: url(../img/img-sprite.png) -228px -229px;
+    float: left;
+    margin-right: 5px;
+}
+
+i.mail {
+    width: 25px;
+    height: 25px;
+    background: url(../img/img-sprite.png) -262px -230px;
+    float: left;
+    margin-right: 5px;
+}
+
+.submit {
+    color: #FFF;
+    font-size: 1em;
+    padding: 12px 30px;
+    border: none;
+    font-weight: bold;
+    background: #e4551d;
+    display: inline-block;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    margin-bottom: 1em;
+}
+
+.submit:hover {
+    color: #fff;
+    text-decoration: none;
+    background: #637f83;
+}
+
+#id_message {
+    resize: none;
+}
+
+form {
+    color: #637f83;
+}
+
+.alert-success {
+    text-align: center;
+}

@@ -27,8 +27,6 @@ e-learning application in this directory:
 * SQLite, PostgreSQL, MySQL
 
 # Notes
-* This project uses third-party library tinymce (https://www.tinymce.com/) with own licence
-    * Licence is located in static_files/js/tinymce
-* If you wish to use contact/registration features you will need to add settings_sensitive file in source
-*	You can find template for settings sensitive in source directory
-*	For more information visit (https://docs.djangoproject.com/ja/1.9/topics/email/)
+* The source code is released under the MIT License.
+* This is developed by [Diana Joanita Nakyazze](mailto:dianajoanita900@gmail.com)
+Powered by ```anitanad.wordpress.com```

@@ -7,7 +7,7 @@ E-Learning was designed to provide pleasant experience for users.
 Assuming you use virtualenv, follow these steps to download and run the
 e-learning application in this directory:
 
-    $ git clone https://github.com/avuletica/eLearning.git
+    $ git clone https://github.com/dianajoan/e-learning_app.git
     $ cd eLearning
     $ virtualenv venv
     $ source ./venv/bin/activate

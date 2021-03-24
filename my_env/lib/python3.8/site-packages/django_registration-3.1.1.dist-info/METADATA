@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: django-registration
+Version: 3.1.1
+Summary: An extensible user-registration application for Django
+Home-page: https://github.com/ubernostrum/django-registration/
+Author: James Bennett
+Author-email: james@b-list.org
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.2
+Classifier: Framework :: Django :: 3.0
+Classifier: Framework :: Django :: 3.1
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Utilities
+Requires-Python: >=3.5
+Requires-Dist: Django (>=2.2)
+Requires-Dist: confusable-homoglyphs (~=3.0)
+
+.. -*-restructuredtext-*-
+
+.. image:: https://travis-ci.org/ubernostrum/django-registration.svg?branch=master
+    :target: https://travis-ci.org/ubernostrum/django-registration
+
+This is a user-registration application for `Django
+<https://www.djangoproject.com/>`_. There are two registration
+workflows (one-step, and two-step with activation) built in, and it's
+designed to be extensible and support building additional workflows.
+
+To get started, check out `the documentation
+<https://django-registration.readthedocs.io/>`_.
+
+
